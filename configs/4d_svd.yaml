@@ -22,7 +22,7 @@ save_path: ???
 lambda_sd: 0
 mvdream: False
 lambda_zero123: 0
-lambda_svd: 1
+lambda_svd: 0
 # training batch size per iter
 batch_size: 14
 # training iterations for stage 1
